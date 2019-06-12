@@ -11,3 +11,23 @@
 #navbar ul li{
     float:none;
 }
+
+#navbar ul li a{
+    padding:5px;
+}
+
+/*home info*/
+
+#home-info{
+    height:550px;
+}
+
+#home-info .info-img{
+    display:none;
+    float:none;
+}
+
+#home-info .info-content{
+    float:none;
+    width:100%;
+}
